@@ -1,7 +1,7 @@
 <!--- Provide a general summary of your changes in the Title above -->
 <!--- We are using semantinc pull request to make our lives easier -->
-<!--- Please use prefixes for the title and use ! before : if breaking like below -->
-<!--- build: ci: docs: feat: perf: refactor: fix: style: test: refactor!: -->
+<!--- Please use prefixes and scopes for the title and use ! before : if breaking like below -->
+<!--- build: ci: docs: feat(amm): perf: refactor: fix(claim): style: test: refactor(amm)!: -->
 
 ## Description
 <!--- Describe your changes in detail -->
@@ -23,6 +23,7 @@
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+<!--- If you're a regular, feel free to remove this part -->
 - [ ] I have updated the documentation if necessary.
 - [ ] I have added tests to cover my changes, regression test if fixing an issue.
-- [ ] This is a breaking change.
+- [ ] I have read our [contributing guidelines](docs/CONTRIBUTING.md)
